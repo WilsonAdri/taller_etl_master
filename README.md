@@ -182,6 +182,7 @@ Incluye validaciones de integridad y calidad de datos.
 ## 👨‍💻 Autor
 
 Wilson Iriarte
+
 Carolina Paz
 
 ---
