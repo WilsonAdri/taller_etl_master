@@ -37,7 +37,7 @@ Data Warehouse / Consumo
 ```
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ce6231e9-8180-457a-a1cb-02524557586c" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b44a1e6d-1f5d-4425-94fe-96e9fed5f04d" />
 
 
 ## 🛠️ Tecnologías
