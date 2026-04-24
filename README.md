@@ -181,12 +181,10 @@ Incluye validaciones de integridad y calidad de datos.
 
 ## 👨‍💻 Autor
 
-Wilson Iriarte
-
 Carolina Paz
+
+Wilson Iriarte
 
 ---
 
-## ⭐ Notas
 
-Este proyecto fue desarrollado como práctica de ingeniería de datos, aplicando herramientas modernas del ecosistema ETL.
