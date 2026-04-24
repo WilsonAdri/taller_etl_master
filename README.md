@@ -39,6 +39,10 @@ Data Warehouse / Consumo
 ---
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b44a1e6d-1f5d-4425-94fe-96e9fed5f04d" />
 
+## Orquestación DAGs
+<img width="1679" height="779" alt="image" src="https://github.com/user-attachments/assets/937b3955-dfb7-47a7-96dd-9b7b58b88dd0" />
+
+
 
 ## 🛠️ Tecnologías
 
