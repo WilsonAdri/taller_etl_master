@@ -1,0 +1,26 @@
+{
+  "fields": {
+    "transaction_id": {
+      "type": "mask_string",
+      "params": {
+        "visible_digits": 4,
+        "mask_char": "*"
+      }
+    },
+    "user_id": {
+      "type": "mask_integer",
+      "params": {
+        "strategy": "partial",
+        "visible_digits": 2
+      }
+    },
+    "amount": {
+      "type": "mask_numeric",
+      "params": {
+        "method": "round",
+        "precision": 0
+      }
+    }
+  },
+  "default_action": "keep_original"
+}
